@@ -1,0 +1,3 @@
+logging:
+  level:
+    '[net.example.logging.HelloController]': DEBUG
